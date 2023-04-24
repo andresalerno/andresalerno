@@ -21,9 +21,9 @@ If you are connecting with me throught this plataform, even others that that I'v
 
 Because of this contact I can share my ideas around:
 
-- <div align="center">
+- <div align="left">
     <a href="www.datafintechsolutions.com">
-    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="50" height="50">
+    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25">
 </a>
 </div>
 - 💰 Finance
