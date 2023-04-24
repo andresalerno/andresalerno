@@ -26,6 +26,7 @@ Because of this contact I can share my ideas around:
     <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25">
 </a>
 </div> Owner Data FinTech Solutions
+
 - 💰 Finance
 - 💵 Economics
 - 💳 Credit Management
