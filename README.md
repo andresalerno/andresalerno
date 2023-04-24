@@ -25,7 +25,7 @@ Because of this contact I can share my ideas around:
     <a href="www.datafintechsolutions.com">
     <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25">
 </a>
-</div>
+</div> Owner Data FinTech Solutions
 - 💰 Finance
 - 💵 Economics
 - 💳 Credit Management
@@ -43,10 +43,4 @@ Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalern
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andresalerno)](https://github.com/andresalerno)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresalerno/)](https://www.linkedin.com/in/andresalerno/)
 [![Salerno](https://komarev.com/ghpvc/?username=andresalerno)](https://github.com/andresalerno)
-
-<div align="left">
-
-[![Sample screenshot](/favicon.png)](www.datafintechsolutions.com "Data FinTech Solutions")
-
-</div>
 
