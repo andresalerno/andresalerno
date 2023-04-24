@@ -21,6 +21,11 @@ If you are connecting with me throught this plataform, even others that that I'v
 
 Because of this contact I can share my ideas around:
 
+- <div align="center">
+    <a href="www.datafintechsolutions.com">
+    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="50" height="50">
+</a>
+</div>
 - 💰 Finance
 - 💵 Economics
 - 💳 Credit Management
@@ -39,7 +44,7 @@ Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalern
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresalerno/)](https://www.linkedin.com/in/andresalerno/)
 [![Salerno](https://komarev.com/ghpvc/?username=andresalerno)](https://github.com/andresalerno)
 
-<div align="center">
+<div align="left">
 
 [![Sample screenshot](/favicon.png)](www.datafintechsolutions.com "Data FinTech Solutions")
 
