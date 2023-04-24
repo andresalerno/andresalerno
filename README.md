@@ -5,7 +5,13 @@
 
 Here as some ideias to get you started:
 
-- 👨🏼‍🎓
+- 💰 Finance
+- 💵 Economics
+- 💳 Credit Management
+- 📉 Business Intelligence
+- 🤖 Machine Learning
+- 🧠 Strategic skills
+- 👥 I love working with diverse team
 
 -->
 
