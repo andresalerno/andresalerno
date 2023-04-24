@@ -31,7 +31,7 @@ Because of this contact I can share my ideas around:
 
 I hope that you get to know here some important ideas around my projects.
 
-## License
+### License
 
 Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalerno).
 
