@@ -23,9 +23,9 @@ Because of this contact I can share my ideas around:
 
 - <div align="left">
     <a href="www.datafintechsolutions.com">
-    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25"><p>Owner Data FinTech Solutions</p>
+    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25"><p>Owner Data FinTech Solutions\n</p>
 </a>
-</div>\n
+</div>
 - 💰 Finance
 - 💵 Economics
 - 💳 Credit Management
