@@ -19,7 +19,15 @@ My name is Andre Salerno, a brazilian and italian citizen whos loves finance and
 
 If you are connecting with me throught this plataform, even others that that I've shared with you, my sincerely thanks.
 
-Because of this contact I can share my ideas around #finance, #economics, #machinelearning, #aws, #deploy, #businessintelligence and much more.
+Because of this contact I can share my ideas around:
+
+- 💰 Finance
+- 💵 Economics
+- 💳 Credit Management
+- 📉 Business Intelligence
+- 🤖 Machine Learning
+- 🧠 Strategic skills
+- 👥 I love working with diverse team
 
 I hope that you get to know here some important ideas around my projects.
 
