@@ -21,11 +21,11 @@ If you are connecting with me throught this plataform, even others that that I'v
 
 Because of this contact I can share my ideas around:
 
-- <div align="left">
+- <span class="cm-variable-2"> <div align="left">
     <a href="www.datafintechsolutions.com">
-    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25"><p>Owner Data FinTech Solutions\n</p>
+    <img src="/favicon.png" alt="Sample screenshot" title="Data FinTech Solutions" width="25" height="25"><p>Owner Data FinTech Solutions</p>
 </a>
-</div>
+</span>
 - 💰 Finance
 - 💵 Economics
 - 💳 Credit Management
