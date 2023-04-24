@@ -39,3 +39,9 @@ Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalern
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andresalerno/)](https://www.linkedin.com/in/andresalerno/)
 [![Salerno](https://komarev.com/ghpvc/?username=andresalerno)](https://github.com/andresalerno)
 
+<div align="center">
+
+[![Sample screenshot](/favicon.png)](www.datafintechsolutions.com "Data FinTech Solutions")
+
+</div>
+
