@@ -33,6 +33,12 @@ Because of this contact I can share my ideas around:
 
 I hope that you get to know here some important ideas around my projects.
 
+<div align="center">
+  <a href="https://github.com/andresalerno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresalerno&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ### License
 
 Released under [MIT](/LICENSE) by [@andresalerno](https://github.com/andresalerno).
