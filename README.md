@@ -1,4 +1,4 @@
-### Hi everyone! 👋
+### Hi everyone! My name is Salerno, André.....nice to meet you!👋
 
 <!--
 **andresalerno/my_profile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
