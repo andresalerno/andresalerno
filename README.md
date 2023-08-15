@@ -15,7 +15,7 @@ Here as some ideias to get you started:
 
 -->
 
-<img src="https://github.com/andresalerno/dfs_background.png?raw=true" title="capa" alt="capa" />
+<img src="https://github.com/andresalerno/data_fintech_solutions_fundo_1080_566.png?raw=true" title="capa" alt="capa" />
 
 My name is Andre Salerno, a brazilian and italian citizen that love finance and technology. I have been studying programming language like Python, R, PostgreSQL and others to become a better financial consultant. My ideas and solutions are always wapred up with finance and tech tools.
 
