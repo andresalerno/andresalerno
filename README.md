@@ -35,7 +35,7 @@ Here you’ll find projects and ideas centered around:
 
 Thank you for visiting my GitHub! I hope you find inspiration and value in the solutions and frameworks I’m developing — where technology meets strategy to create smarter, data-driven business decisions.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/andresalerno">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresalerno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresalerno&layout=compact&langs_count=7&theme=dracula"/>
