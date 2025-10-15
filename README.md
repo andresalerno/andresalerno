@@ -17,21 +17,23 @@ Here as some ideias to get you started:
 
 <img src="https://github.com/andresalerno/andresalerno/blob/main/Capa_Linkedlnx1.jpg?raw=true" title="capa" alt="capa" />
 
-As I told you above, my name is Andre Salerno, a brazilian and italian citizen that love finance and technology. I have been studying programming language like Python, R, Java, JavaScript, TypeScript, PostgreSQL and others to become a better financial consultant. My ideas and solutions are always wapred up with finance and tech tools.
+🚀 About Me
 
-If you are connecting with me throught this plataform, even others that that I've shared with you, my sincerely thanks.
+Hello! I’m André Salerno, a Brazilian–Italian professional passionate about finance, technology, and strategic innovation.
 
-Because of this contact I can share my ideas around:
+With over 30 years of experience in the financial market, I focus on developing technology-driven solutions that connect strategic management, financial modeling, and data analytics to deliver real business impact.
 
-- 💰 Finance
-- 💵 Economics
-- 💳 Credit Management
-- 📉 Business Intelligence
-- 🤖 Machine Learning
-- 🧠 Strategic skills
-- 👥 I love working with diverse team
+I work with tools and languages such as Python, R, Java, JavaScript, TypeScript, and PostgreSQL, using them to build intelligent systems that integrate Artificial Intelligence, automation, and cloud computing (AWS) into financial and operational decision-making.
 
-I hope that you get to know here some important ideas around my projects.
+Here you’ll find projects and ideas centered around:
+💰 Finance & Economics
+💳 Credit Management
+📊 Business Intelligence & Data Analytics
+🤖 Machine Learning & Automation
+🧠 Strategic Planning & Leadership
+👥 Collaborative and multidisciplinary teamwork
+
+Thank you for visiting my GitHub! I hope you find inspiration and value in the solutions and frameworks I’m developing — where technology meets strategy to create smarter, data-driven business decisions.
 
 <div align="center">
   <a href="https://github.com/andresalerno">
