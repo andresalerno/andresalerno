@@ -19,7 +19,7 @@ Here as some ideias to get you started:
 
 🚀 About Me
 
-Hello! I’m André Salerno, a Brazilian–Italian professional passionate about finance, technology, and strategic innovation.
+Hello! I’m Salerno, a Brazilian–Italian professional passionate about finance, technology, and strategic innovation.
 
 With over 30 years of experience in the financial market, I focus on developing technology-driven solutions that connect strategic management, financial modeling, and data analytics to deliver real business impact.
 
