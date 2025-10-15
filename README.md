@@ -15,7 +15,7 @@ Here as some ideias to get you started:
 
 -->
 
-<img src="https://github.com/andresalerno/andresalerno/blob/main/Capa_Linkedinx1.jpg?raw=true" title="capa" alt="capa" />
+<img src="https://github.com/andresalerno/andresalerno/blob/main/Capa_Linkedlnx1.jpg?raw=true" title="capa" alt="capa" />
 
 As I told you above, my name is Andre Salerno, a brazilian and italian citizen that love finance and technology. I have been studying programming language like Python, R, Java, JavaScript, TypeScript, PostgreSQL and others to become a better financial consultant. My ideas and solutions are always wapred up with finance and tech tools.
 
